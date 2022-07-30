@@ -30,7 +30,7 @@ main {
     width: 55%;
     height: 80%;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.8);
-    background-image: url('/assets/img/44239332-profonde-fond-l-espace-avec-des-étoiles-.webp');
+    background-image: url('/assets/img/background-black.png');
     background-size: contain;
     animation: bgDefile 10s linear infinite;
 }
