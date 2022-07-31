@@ -11,7 +11,9 @@
 
 body {
     font-family: 'SpaceInvader';
-    background-color: #111;
+    background-image: url('../img/bgbg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 main {
